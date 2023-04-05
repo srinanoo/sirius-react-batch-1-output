@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://srinanoo.github.io/sirius-react-batch-1-output/static/css/main.073c9b0a.css",
+    "main.js": "https://srinanoo.github.io/sirius-react-batch-1-output/static/js/main.ecbd9a4e.js",
+    "static/js/787.9ce9f379.chunk.js": "https://srinanoo.github.io/sirius-react-batch-1-output/static/js/787.9ce9f379.chunk.js",
+    "index.html": "https://srinanoo.github.io/sirius-react-batch-1-output/index.html",
+    "main.073c9b0a.css.map": "https://srinanoo.github.io/sirius-react-batch-1-output/static/css/main.073c9b0a.css.map",
+    "main.ecbd9a4e.js.map": "https://srinanoo.github.io/sirius-react-batch-1-output/static/js/main.ecbd9a4e.js.map",
+    "787.9ce9f379.chunk.js.map": "https://srinanoo.github.io/sirius-react-batch-1-output/static/js/787.9ce9f379.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ecbd9a4e.js"
+  ]
+}
